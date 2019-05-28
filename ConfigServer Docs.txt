@@ -1,0 +1,2 @@
+Config Server
+https://spring.io/guides/gs/centralized-configuration/
